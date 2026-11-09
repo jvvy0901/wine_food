@@ -1,0 +1,298 @@
+wine_type,wine_category,food_item,food_category,cuisine,pairing_quality,quality_label,description,is_contrast_example
+Cava,Sparkling,oysters,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood.,False
+Champagne,Sparkling,fish tacos,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Ice Wine,Dessert,lemon tart,Dessert,Japanese,5,Excellent,Acidic wine balances acidic food.; Sweet/sparkling pairs with dessert.,False
+Cabernet Sauvignon,Red,bbq brisket,Red Meat,Korean,5,Excellent,Tannic red complements red meat fat.,False
+Sangiovese,Red,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Syrah/Shiraz,Red,bbq brisket,Red Meat,Korean,5,Excellent,Tannic red complements red meat fat.,False
+Sauternes,Dessert,lemon tart,Dessert,Korean,5,Excellent,Acidic wine balances acidic food.; Sweet/sparkling pairs with dessert.,False
+Grenache,Red,pork tenderloin,Pork,Korean,5,Excellent,Light/medium red suits richer poultry/pork.,False
+Cava,Sparkling,fish tacos,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Ice Wine,Dessert,carbonara,Pork,American BBQ,5,Excellent,Richer body matches creamy textures.,False
+Sangiovese,Red,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Viognier,White,carbonara,Pork,Korean,5,Excellent,Richer body matches creamy textures.,False
+Cava,Sparkling,shrimp scampi,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Chardonnay,White,roast chicken with herbs,Poultry,Japanese,5,Excellent,Lighter wines fit poultry.,False
+Sangiovese,Red,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Grüner Veltliner,White,oysters,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Sauternes,Dessert,lemon tart,Dessert,American BBQ,5,Excellent,Acidic wine balances acidic food.; Sweet/sparkling pairs with dessert.,False
+Grüner Veltliner,White,shrimp scampi,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Chardonnay,White,chicken curry,Poultry,Japanese,5,Excellent,Lighter wines fit poultry.,False
+Albariño,White,fish tacos,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood.,False
+Pinot Noir,Red,chicken curry,Poultry,Korean,5,Excellent,Lighter wines fit poultry.,False
+Cava,Sparkling,grilled salmon,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood.,False
+Merlot,Red,pork tenderloin,Pork,Japanese,5,Excellent,Light/medium red suits richer poultry/pork.,False
+Grüner Veltliner,White,grilled salmon,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Pinot Noir,Red,chicken curry,Poultry,American BBQ,5,Excellent,Lighter wines fit poultry.,False
+Syrah/Shiraz,Red,bbq brisket,Red Meat,American BBQ,5,Excellent,Tannic red complements red meat fat.,False
+Ice Wine,Dessert,lemon tart,Dessert,American BBQ,5,Excellent,Acidic wine balances acidic food.; Sweet/sparkling pairs with dessert.,False
+Nebbiolo,Red,pork tenderloin,Pork,Japanese,5,Excellent,Light/medium red suits richer poultry/pork.,False
+Sauternes,Dessert,lemon tart,Dessert,Japanese,5,Excellent,Acidic wine balances acidic food.; Sweet/sparkling pairs with dessert.,False
+Merlot,Red,bbq brisket,Red Meat,American BBQ,5,Excellent,Tannic red complements red meat fat.,False
+Cava,Sparkling,grilled salmon,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Chardonnay,White,carbonara,Creamy,American BBQ,5,Excellent,Richer body matches creamy textures.,False
+Viognier,White,carbonara,Creamy,American BBQ,5,Excellent,Richer body matches creamy textures.,False
+Grüner Veltliner,White,fish tacos,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Grüner Veltliner,White,shrimp scampi,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood.,False
+Pinot Noir,Red,chicken curry,Poultry,Japanese,5,Excellent,Lighter wines fit poultry.,False
+Cabernet Sauvignon,Red,roast lamb,Red Meat,American BBQ,5,Excellent,Tannic red complements red meat fat.,False
+Champagne,Sparkling,oysters,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Sauternes,Dessert,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Pinot Noir,Red,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Viognier,White,roast chicken with herbs,Poultry,Korean,5,Excellent,Lighter wines fit poultry.,False
+Sangiovese,Red,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Chardonnay,White,alfredo pasta,Creamy,Japanese,5,Excellent,Richer body matches creamy textures.,False
+Merlot,Red,pork tenderloin,Pork,Korean,5,Excellent,Light/medium red suits richer poultry/pork.,False
+Albariño,White,grilled salmon,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Gamay (Beaujolais),Red,grilled salmon,Seafood,Korean,5,Excellent,Light red (Pinot) with salmon works.,False
+Sangiovese,Red,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Pinot Noir,Red,duck à l'orange,Poultry,American BBQ,5,Excellent,Light/medium red suits richer poultry/pork.,False
+Ice Wine,Dessert,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Pinot Noir,Red,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Malbec,Red,roast lamb,Red Meat,Korean,5,Excellent,Tannic red complements red meat fat.,False
+Sangiovese,Red,duck à l'orange,Poultry,Korean,5,Excellent,Light/medium red suits richer poultry/pork.,False
+Riesling (dry),White,Indian vindaloo,Spicy,Korean,5,Excellent,Off-dry sweetness calms spice.,False
+Riesling (dry),White,Indian vindaloo,Spicy,American BBQ,5,Excellent,Off-dry sweetness calms spice.,False
+Syrah/Shiraz,Red,roast lamb,Red Meat,American BBQ,5,Excellent,Tannic red complements red meat fat.,False
+Cabernet Sauvignon,Red,bbq brisket,Red Meat,American BBQ,5,Excellent,Tannic red complements red meat fat.,False
+Ice Wine,Dessert,lemon tart,Dessert,Korean,5,Excellent,Acidic wine balances acidic food.; Sweet/sparkling pairs with dessert.,False
+Gamay (Beaujolais),Red,grilled salmon,Seafood,American BBQ,5,Excellent,Light red (Pinot) with salmon works.,False
+Malbec,Red,bbq brisket,Red Meat,American BBQ,5,Excellent,Tannic red complements red meat fat.,False
+Pinot Noir,Red,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Sauvignon Blanc,White,fish tacos,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Grenache,Red,pork tenderloin,Pork,American BBQ,5,Excellent,Light/medium red suits richer poultry/pork.,False
+Sauvignon Blanc,White,fish tacos,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood.,False
+Sauvignon Blanc,White,oysters,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Sauternes,Dessert,carbonara,Pork,Korean,5,Excellent,Richer body matches creamy textures.,False
+Nebbiolo,Red,roast lamb,Red Meat,Korean,5,Excellent,Tannic red complements red meat fat.,False
+Viognier,White,cream of mushroom soup,Creamy,American BBQ,5,Excellent,Richer body matches creamy textures.,False
+Ice Wine,Dessert,sorbet,Dessert,Japanese,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Albariño,White,fish tacos,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Ice Wine,Dessert,chocolate mousse,Dessert,American BBQ,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Champagne,Sparkling,shrimp scampi,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood.,False
+Champagne,Sparkling,grilled salmon,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Nebbiolo,Red,bbq brisket,Red Meat,American BBQ,5,Excellent,Tannic red complements red meat fat.,False
+Sauternes,Dessert,sorbet,Dessert,Japanese,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Viognier,White,roast chicken with herbs,Poultry,Japanese,5,Excellent,Lighter wines fit poultry.,False
+Sauternes,Dessert,sorbet,Dessert,Korean,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Pinot Noir,Red,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Sauvignon Blanc,White,shrimp scampi,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Cava,Sparkling,oysters,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Cabernet Sauvignon,Red,roast lamb,Red Meat,Korean,5,Excellent,Tannic red complements red meat fat.,False
+Chardonnay,White,carbonara,Pork,Japanese,5,Excellent,Richer body matches creamy textures.,False
+Nebbiolo,Red,pork tenderloin,Pork,American BBQ,5,Excellent,Light/medium red suits richer poultry/pork.,False
+Albariño,White,fish tacos,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Grüner Veltliner,White,fish tacos,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Viognier,White,carbonara,Creamy,Japanese,5,Excellent,Richer body matches creamy textures.,False
+Malbec,Red,roast lamb,Red Meat,American BBQ,5,Excellent,Tannic red complements red meat fat.,False
+Chardonnay,White,carbonara,Creamy,Korean,5,Excellent,Richer body matches creamy textures.,False
+Sauvignon Blanc,White,grilled salmon,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Champagne,Sparkling,fish tacos,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Albariño,White,oysters,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Ice Wine,Dessert,cheesecake,Dessert,Korean,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Cava,Sparkling,grilled salmon,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Albariño,White,oysters,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood.,False
+Sangiovese,Red,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Gamay (Beaujolais),Red,grilled salmon,Seafood,Japanese,5,Excellent,Light red (Pinot) with salmon works.,False
+Sauternes,Dessert,cheesecake,Dessert,Japanese,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Gamay (Beaujolais),Red,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Nebbiolo,Red,roast lamb,Red Meat,American BBQ,5,Excellent,Tannic red complements red meat fat.,False
+Viognier,White,alfredo pasta,Creamy,American BBQ,5,Excellent,Richer body matches creamy textures.,False
+Sauternes,Dessert,cheesecake,Dessert,American BBQ,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Sauvignon Blanc,White,oysters,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Champagne,Sparkling,oysters,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood.,False
+Madeira,Fortified,lemon tart,Dessert,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Riesling (dry),White,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Chardonnay,White,cream of mushroom soup,Creamy,American BBQ,5,Excellent,Richer body matches creamy textures.,False
+Nebbiolo,Red,bbq brisket,Red Meat,Korean,5,Excellent,Tannic red complements red meat fat.,False
+Viognier,White,chicken curry,Poultry,Japanese,5,Excellent,Lighter wines fit poultry.,False
+Merlot,Red,roast lamb,Red Meat,Korean,5,Excellent,Tannic red complements red meat fat.,False
+Cava,Sparkling,fish tacos,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Tempranillo,Red,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Albariño,White,oysters,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Cabernet Sauvignon,Red,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Sauternes,Dessert,cheesecake,Dessert,Korean,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Chardonnay,White,roast chicken with herbs,Poultry,American BBQ,5,Excellent,Lighter wines fit poultry.,False
+Albariño,White,shrimp scampi,Seafood,Japanese,5,Excellent,Crisp acidity suits seafood.,False
+Sauternes,Dessert,chocolate mousse,Dessert,American BBQ,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Pinot Noir,Red,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Chardonnay,White,chicken curry,Poultry,Korean,5,Excellent,Lighter wines fit poultry.,False
+Madeira,Fortified,lemon tart,Dessert,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Sangiovese,Red,bbq brisket,Red Meat,American BBQ,5,Excellent,Tannic red complements red meat fat.,False
+Ice Wine,Dessert,carbonara,Pork,Korean,5,Excellent,Richer body matches creamy textures.,False
+Syrah/Shiraz,Red,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Champagne,Sparkling,oysters,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Ice Wine,Dessert,chocolate mousse,Dessert,Japanese,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Grenache,Red,pork tenderloin,Pork,Japanese,5,Excellent,Light/medium red suits richer poultry/pork.,False
+Sauternes,Dessert,carbonara,Pork,Japanese,5,Excellent,Richer body matches creamy textures.,False
+Sauvignon Blanc,White,grilled salmon,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Riesling (dry),White,Indian vindaloo,Spicy,Japanese,5,Excellent,Off-dry sweetness calms spice.,False
+Nebbiolo,Red,roast lamb,Red Meat,Japanese,5,Excellent,Tannic red complements red meat fat.,False
+Ice Wine,Dessert,chocolate mousse,Dessert,Korean,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Sauvignon Blanc,White,grilled salmon,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood.,False
+Chardonnay,White,alfredo pasta,Creamy,American BBQ,5,Excellent,Richer body matches creamy textures.,False
+Chardonnay,White,roast chicken with herbs,Poultry,Korean,5,Excellent,Lighter wines fit poultry.,False
+Viognier,White,alfredo pasta,Creamy,Korean,5,Excellent,Richer body matches creamy textures.,False
+Nebbiolo,Red,pork tenderloin,Pork,Korean,5,Excellent,Light/medium red suits richer poultry/pork.,False
+Albariño,White,shrimp scampi,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood.,False
+Champagne,Sparkling,grilled salmon,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Pinot Noir,Red,roast chicken with herbs,Poultry,Korean,5,Excellent,Lighter wines fit poultry.,False
+Sauvignon Blanc,White,shrimp scampi,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Chenin Blanc,White,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Grüner Veltliner,White,fish tacos,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood.,False
+Sangiovese,Red,duck à l'orange,Poultry,American BBQ,5,Excellent,Light/medium red suits richer poultry/pork.,False
+Madeira,Fortified,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Torrontés,White,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Grüner Veltliner,White,shrimp scampi,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Viognier,White,alfredo pasta,Creamy,Japanese,5,Excellent,Richer body matches creamy textures.,False
+Syrah/Shiraz,Red,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Viognier,White,cream of mushroom soup,Creamy,Korean,5,Excellent,Richer body matches creamy textures.,False
+Champagne,Sparkling,fish tacos,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood.,False
+Grüner Veltliner,White,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Grüner Veltliner,White,grilled salmon,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood.,False
+Grüner Veltliner,White,oysters,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Cava,Sparkling,fish tacos,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood.,False
+Madeira,Fortified,lemon tart,Dessert,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Ice Wine,Dessert,cheesecake,Dessert,American BBQ,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Viognier,White,chicken curry,Poultry,American BBQ,5,Excellent,Lighter wines fit poultry.,False
+Ice Wine,Dessert,sorbet,Dessert,Korean,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Champagne,Sparkling,grilled salmon,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood.,False
+Nebbiolo,Red,bbq brisket,Red Meat,Japanese,5,Excellent,Tannic red complements red meat fat.,False
+Sauvignon Blanc,White,fish tacos,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Sauternes,Dessert,chocolate mousse,Dessert,Korean,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Ice Wine,Dessert,sorbet,Dessert,American BBQ,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Riesling (dry),White,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Ice Wine,Dessert,cheesecake,Dessert,Japanese,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Albariño,White,shrimp scampi,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Merlot,Red,roast lamb,Red Meat,American BBQ,5,Excellent,Tannic red complements red meat fat.,False
+Cava,Sparkling,oysters,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Viognier,White,cream of mushroom soup,Creamy,Japanese,5,Excellent,Richer body matches creamy textures.,False
+Sangiovese,Red,roast lamb,Red Meat,Japanese,5,Excellent,Tannic red complements red meat fat.,False
+Sauternes,Dessert,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Syrah/Shiraz,Red,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Riesling (dry),White,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Cabernet Sauvignon,Red,bbq brisket,Red Meat,Japanese,5,Excellent,Tannic red complements red meat fat.,False
+Riesling (dry),White,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Tempranillo,Red,roast lamb,Red Meat,Korean,5,Excellent,Tannic red complements red meat fat.,False
+Nebbiolo,Red,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Sauternes,Dessert,sorbet,Dessert,American BBQ,5,Excellent,Sweet/sparkling pairs with dessert.,False
+Sauternes,Dessert,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Tempranillo,Red,bbq brisket,Red Meat,American BBQ,5,Excellent,Tannic red complements red meat fat.,False
+Provence Rosé,Rosé,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Barbera,Red,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Tempranillo,Red,roast lamb,Red Meat,Japanese,5,Excellent,Tannic red complements red meat fat.,False
+Merlot,Red,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Grüner Veltliner,White,grilled salmon,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Cava,Sparkling,shrimp scampi,Seafood,Korean,5,Excellent,Crisp acidity suits seafood.,False
+Sangiovese,Red,roast lamb,Red Meat,Korean,5,Excellent,Tannic red complements red meat fat.,False
+Albariño,White,grilled salmon,Seafood,American BBQ,5,Excellent,Crisp acidity suits seafood.,False
+Provence Rosé,Rosé,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Madeira,Fortified,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Ice Wine,Dessert,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Albariño,White,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Ice Wine,Dessert,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Chenin Blanc,White,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Zinfandel,Red,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Barbera,Red,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Zinfandel,Red,roast lamb,Red Meat,Korean,5,Excellent,Tannic red complements red meat fat.,False
+Chardonnay,White,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Chenin Blanc,White,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Grenache,Red,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Chardonnay,White,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Cava,Sparkling,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Cabernet Sauvignon,Red,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Cava,Sparkling,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Merlot,Red,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Zinfandel,Red,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Albariño,White,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Torrontés,White,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Grenache,Red,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Chenin Blanc,White,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Cabernet Sauvignon,Red,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Madeira,Fortified,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Syrah/Shiraz,Red,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Albariño,White,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Grenache,Red,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Cabernet Sauvignon,Red,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Barbera,Red,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Malbec,Red,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Champagne,Sparkling,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Sauvignon Blanc,White,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Merlot,Red,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Provence Rosé,Rosé,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Zinfandel,Red,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Cabernet Sauvignon,Red,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Nebbiolo,Red,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Tempranillo,Red,bbq brisket,Red Meat,Korean,5,Excellent,Tannic red complements red meat fat.,False
+Cava,Sparkling,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Ice Wine,Dessert,carbonara,Pork,Japanese,5,Excellent,Richer body matches creamy textures.,False
+Merlot,Red,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Zinfandel,Red,bbq brisket,Red Meat,Korean,5,Excellent,Tannic red complements red meat fat.,False
+Grüner Veltliner,White,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Nebbiolo,Red,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Gamay (Beaujolais),Red,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Tempranillo,Red,roast lamb,Red Meat,American BBQ,5,Excellent,Tannic red complements red meat fat.,False
+Chenin Blanc,White,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Grenache,Red,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Malbec,Red,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Merlot,Red,bbq brisket,Red Meat,Japanese,5,Excellent,Tannic red complements red meat fat.,False
+Sauvignon Blanc,White,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Barbera,Red,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Sangiovese,Red,roast lamb,Red Meat,American BBQ,5,Excellent,Tannic red complements red meat fat.,False
+Gamay (Beaujolais),Red,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Zinfandel,Red,bbq brisket,Red Meat,Japanese,5,Excellent,Tannic red complements red meat fat.,False
+Syrah/Shiraz,Red,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Merlot,Red,bbq brisket,Red Meat,Korean,5,Excellent,Tannic red complements red meat fat.,False
+Madeira,Fortified,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Nebbiolo,Red,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Champagne,Sparkling,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Champagne,Sparkling,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Gamay (Beaujolais),Red,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Sauvignon Blanc,White,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Albariño,White,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Malbec,Red,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Provence Rosé,Rosé,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Chardonnay,White,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Torrontés,White,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Gamay (Beaujolais),Red,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Merlot,Red,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Chenin Blanc,White,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Madeira,Fortified,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Zinfandel,Red,bbq brisket,Red Meat,American BBQ,5,Excellent,Tannic red complements red meat fat.,False
+Syrah/Shiraz,Red,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Cava,Sparkling,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Tempranillo,Red,bbq brisket,Red Meat,Japanese,5,Excellent,Tannic red complements red meat fat.,False
+Barbera,Red,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Grüner Veltliner,White,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Torrontés,White,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Barbera,Red,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Tempranillo,Red,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Sangiovese,Red,bbq brisket,Red Meat,Japanese,5,Excellent,Tannic red complements red meat fat.,False
+Albariño,White,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Sauvignon Blanc,White,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Nebbiolo,Red,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Zinfandel,Red,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Chardonnay,White,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Sauvignon Blanc,White,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Grenache,Red,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Tempranillo,Red,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Grüner Veltliner,White,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Champagne,Sparkling,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Zinfandel,Red,roast lamb,Red Meat,Japanese,5,Excellent,Tannic red complements red meat fat.,False
+Provence Rosé,Rosé,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Riesling (dry),White,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Ice Wine,Dessert,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Merlot,Red,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Sauternes,Dessert,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Sauvignon Blanc,White,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Malbec,Red,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Nebbiolo,Red,gazpacho,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Riesling (dry),White,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Ice Wine,Dessert,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Champagne,Sparkling,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Sauternes,Dessert,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Grüner Veltliner,White,citrus salad,Acidic,Korean,5,Excellent,Acidic wine balances acidic food.,False
+Tempranillo,Red,gazpacho,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
+Provence Rosé,Rosé,gazpacho,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Albariño,White,citrus salad,Acidic,Japanese,5,Excellent,Acidic wine balances acidic food.,False
+Malbec,Red,citrus salad,Acidic,American BBQ,5,Excellent,Acidic wine balances acidic food.,False
